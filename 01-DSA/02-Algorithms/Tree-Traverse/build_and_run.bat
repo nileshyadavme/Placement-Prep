@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 REM Set the source file name (change this to your .cpp file name)
-set SOURCE_FILE_NAME=pre-order
+set SOURCE_FILE_NAME=post-order
 set SOURCE_FILE=%SOURCE_FILE_NAME%.cpp
 
 REM Set the output executable name
